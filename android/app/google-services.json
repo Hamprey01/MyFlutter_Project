@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162559807983",
+    "project_id": "weedecide-1a075",
+    "storage_bucket": "weedecide-1a075.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162559807983:android:80bf9b73cfe96bd51b661a",
+        "android_client_info": {
+          "package_name": "com.example.weedecide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtAmEMsuBTgoMZLs6TbDcCJ20Qs3Wwfic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

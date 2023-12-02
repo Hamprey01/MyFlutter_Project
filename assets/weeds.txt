@@ -1,0 +1,7 @@
+0 Echinochloa crus galli
+1 Cyperus iria
+2 Ludwigia hyssopifolia
+3 Cyperus difformis
+4 Ischaemum rugosum Salisb
+5 Commelina benghalensis
+6 Ludwigia adscendens
